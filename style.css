@@ -1,0 +1,13 @@
+.h1{
+    color: green;
+}
+.descripcion{
+    color: red;
+}
+.enlace{
+    color: purple;
+    text-decoration: underline;
+}
+.imagen{
+    width: 500px;
+}
